@@ -9,7 +9,7 @@ raw data → insights → decisions.
 Automatically inspect and explore a CSV dataset.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/YOUR_USERNAME/data-science-library/blob/main/01_Data_Science_Autopilot/DATA_SCIENCE_AUTOPILOT_v1.ipynb)
+(https://colab.research.google.com/github/Nin-ng/data-science-library/blob/main/01_Data_Science_Autopilot/DATA_SCIENCE_AUTOPILOT_v1.ipynb)
 
 ### Workflow
 
